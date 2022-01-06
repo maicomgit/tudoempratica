@@ -4,7 +4,7 @@
 
 echo "# GREG" >> README.md >>> esse comando cria um arquivo readme.md
 git init >> inicia o git dentro do repertorio local 
-git add README.md >> é usado para descrever seu projeto 
+git add README.md >> quando usado o git add junto ao nome do arquivo somente esse arquivo sera monitorado  
 git commit -m "first commit">>> é usado para dar o primeiro commit
 git branch -M main cria a branch "pai" denominada main 
 git remote add origin https://github.com/Maicomgit/fvv.git >> esse link que esta inserido sera o modo com que  local se comunica com o git criando um servidor remoto 
@@ -42,3 +42,5 @@ git remove >>> usa-se para que seja feita a remoção de um arquivo em seu diret
 git stash >> stash usa-se para que seja feita uma "pausa" na tarefa que esta sendo feita possibilitando que seja realizada outra tarefa sem interferir na anterior.
 
 git stash pop >> apos dar um stash, usa-se essa funcao para que seja feita o inverso do cogido.
+
+HEAD no git push >>o HEAD no git push, ele serve para que toda a alteraçao executada seja enviada para a ramificação padrão.
