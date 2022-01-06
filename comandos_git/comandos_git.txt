@@ -1,8 +1,16 @@
-Como fazer um repositorio
+[Como fazer um repositorio
 
- >>1 no terminal criar uma pasta, apos esse procedimento ir no git e fazer os comandos necessarios para que a pasta criada seja o diretorio de armazenamento principal, 
+ >>1 no terminal criar uma pasta, apos esse procedimento ir no git e fazer os comandos necessarios para que a pasta criada seja o diretorio de armazenamento principal,
 
->> 2 apos feita a pasta onde sera direcionada o repositorio ir no git e copiar a url , ir no terminal e escrever a linha de codigo "git clone"e colar a url. 
+echo "# GREG" >> README.md >>> esse comando cria um arquivo readme.md
+git init >> inicia o git dentro do repertorio local 
+git add README.md >> é usado para descrever seu projeto 
+git commit -m "first commit">>> é usado para dar o primeiro commit
+git branch -M main cria a branch "pai" denominada main 
+git remote add origin https://github.com/Maicomgit/fvv.git >> esse link que esta inserido sera o modo com que  local se comunica com o git criando um servidor remoto 
+git push -u origin main >>> essa linha de comando serve para que todos os arquivos sejam voltados para a origem da branch.
+
+>>  apos feita a pasta onde sera direcionada o repositorio ir no git e copiar a url , ir no terminal e escrever a linha de codigo "git clone"e colar a url. 
 
 >>>3 outro modo de que seja feito a criação de um repositorio, seria importando um codigo de um outro repositorio git  
 
@@ -10,14 +18,14 @@ COMANDOS BASICOS
 
 git branch - d >>>usado para excluir uma branch 
 
-git status > essa função ira mostarr a situação do arquivo 
+git status > essa função ira mostar a situação do arquivo 
 
-git add. >>usado para fazer com que o arquivo seja monitorado 
+git add . >>usado para fazer com que o arquivo seja monitorado 
 git add -a >>serve para adicionar todos os arquivos no repositorio 
 
 git show>>> usados para expandir os detalhes 
 
-git commit >> usado para que apos o arquivo monitorado, basicament seria o comando para armazenar o arquivo 
+git commit -m >> usado para que apos o arquivo monitorado, basicament seria o comando para armazenar o arquivo 
 
 git push >> o git push sera usado para que seja publicado modificações locais , em um repositorio.
 
@@ -33,3 +41,4 @@ git remove >>> usa-se para que seja feita a remoção de um arquivo em seu diret
 
 git stash >> stash usa-se para que seja feita uma "pausa" na tarefa que esta sendo feita possibilitando que seja realizada outra tarefa sem interferir na anterior.
 
+git stash pop >> apos dar um stash, usa-se essa funcao para que seja feita o inverso do cogido.
