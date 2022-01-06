@@ -1,0 +1,35 @@
+Como fazer um repositorio
+
+ >>1 no terminal criar uma pasta, apos esse procedimento ir no git e fazer os comandos necessarios para que a pasta criada seja o diretorio de armazenamento principal, 
+
+>> 2 apos feita a pasta onde sera direcionada o repositorio ir no git e copiar a url , ir no terminal e escrever a linha de codigo "git clone"e colar a url. 
+
+>>>3 outro modo de que seja feito a criação de um repositorio, seria importando um codigo de um outro repositorio git  
+
+COMANDOS BASICOS 
+
+git branch - d >>>usado para excluir uma branch 
+
+git status > essa função ira mostarr a situação do arquivo 
+
+git add. >>usado para fazer com que o arquivo seja monitorado 
+git add -a >>serve para adicionar todos os arquivos no repositorio 
+
+git show>>> usados para expandir os detalhes 
+
+git commit >> usado para que apos o arquivo monitorado, basicament seria o comando para armazenar o arquivo 
+
+git push >> o git push sera usado para que seja publicado modificações locais , em um repositorio.
+
+git pull >> usado para que quando feita alteraçoes no arquivo repositorio , ele seja atualizado para o gerenciamento local 
+
+git checkout >>> usa-se este comando para que seja feita a troca de ramificações 
+
+git merge >>> usado para unir arquivos em desenvolvimento 
+
+git clone >>> clona um novo repositorio em um novo diretorio 
+
+git remove >>> usa-se para que seja feita a remoção de um arquivo em seu diretorio  
+
+git stash >> stash usa-se para que seja feita uma "pausa" na tarefa que esta sendo feita possibilitando que seja realizada outra tarefa sem interferir na anterior.
+
