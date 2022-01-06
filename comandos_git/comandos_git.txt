@@ -44,3 +44,5 @@ git stash >> stash usa-se para que seja feita uma "pausa" na tarefa que esta sen
 git stash pop >> apos dar um stash, usa-se essa funcao para que seja feita o inverso do cogido.
 
 HEAD no git push >>o HEAD no git push, ele serve para que toda a alteraçao executada seja enviada para a ramificação padrão.
+
+origins no git push >> é basicamente a url que o git usara para se cominucar com o servidor.
