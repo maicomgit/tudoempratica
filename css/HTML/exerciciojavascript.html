@@ -1,0 +1,90 @@
+<head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+</head>
+
+<body>
+    <table>
+
+        <head>
+            <tr>
+                <th>
+                    NOME
+                </th>
+                <th>
+                    IDADE
+                </th>
+                <th>
+                    GENERO
+                </th>
+            </tr>
+        </head>
+        <tbody>
+            <tr>
+                <td id="table2">
+
+                </td>
+                <td id="table3">
+
+                </td>
+                <td id="table4">
+
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+
+    <div id="div4">
+
+    </div>
+    <img id="imgmasc" src="" alt="">
+
+
+
+    <script>
+
+        nome = prompt('digite seu nome')
+        idade = prompt('digite sua idade')
+        genero = prompt('digite seu genero')
+        idade = Number(idade)
+        console.log('nome', nome)
+        console.log('idade', idade)
+        console.log('genero', genero)
+        $('#table2').text(nome)
+        $('#table3').text(idade)
+        $('#table4').text(genero)
+
+
+
+
+
+
+
+        // if (idade >= 18) {
+        //     $('#div4').css('background-color', 'green')
+        //     $('#div4').text('maior de 18')    
+        //     if (idade >= 50) {
+        //         $('#div4').css('font-size', '25pt')
+        //     }                        
+        // }else{
+        //     $('#div4').css('background-color', 'red')
+        //     $('#div4').text('menor que 18')
+        // }    
+        // if (genero == 'masculino'){
+        //     $('#imgmasc').attr('src', '5320903-male-symbol.jpg')
+        // }else{
+        //     $('#imgmasc').attr('src', 'istockphoto-918488692-1024x1024.jpg')
+        // }
+
+        
+
+
+
+    </script>
+
+
+
+
+
+</body>

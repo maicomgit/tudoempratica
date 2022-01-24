@@ -1,0 +1,26 @@
+#divpai{
+    background-color: rgb(16, 231, 44);
+    height: 200px;
+    width: 200px;
+    border:solid 5px darkorange;
+}
+#divfilho{
+    background-color: blue;
+    height: 130px;
+    width: 130px;
+    border:solid 5px rgb(0, 0, 0);
+}
+#divneta{
+    background-color: rgb(134, 0, 116);
+    height: 80px;
+    width: 80px;
+    border:solid 5px rgb(192, 0, 0);
+}
+
+
+
+
+
+
+
+

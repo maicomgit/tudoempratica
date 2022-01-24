@@ -1,0 +1,79 @@
+.test_1, .test_2, .test_3{
+    width: 200px ;
+    height: 200px  ;
+    background-color: rgb(0, 247, 33);
+}
+ 
+.test_1{
+    width: 200px ;
+    height: 200px ;
+    background-color: red;
+}
+
+.test_2{
+    width: 300px ;
+    height: 300px ;
+    background-color: rgb(37, 0, 245);
+    overflow: auto;
+}
+
+.test_3{
+    width: 400px ;
+    height: 400px ;
+    background-color: rgb(0, 0, 0);
+}
+
+.test4{
+    width: 300px ;
+    height: 300px;
+    background-color: rgb(255, 0, 0);
+    opacity: 0.8;
+}
+
+.test5{
+     width:400px ;      
+    height: 400px ;
+    background-color: skyblue;
+}
+
+th, td, tr, table{
+    border:1px solid black;
+    /* border-collapse: collapse; */
+}
+/* coloca o link nao aberto na cor  */
+.teste7:link{
+    color: green;
+}
+
+.teste7:visited{
+    color: rgb(243, 6, 6);
+    
+}
+
+.teste7:hover{
+    color: rgb(22, 6, 243);
+    
+}
+.teste7:active{
+    color: rgb(235, 6, 101);
+    
+}
+div{
+    height: 400px;
+    width: 400px ; 
+    background-color: rgb(7, 0, 0);
+}
+
+.teste8:hover{
+   background-color: rgb(22, 6, 243);
+    
+}
+.teste8:active{
+   background-color: rgb(235, 6, 101);
+    
+}
+
+.test9:focus{
+    background-color: rgb(255, 0, 0);
+}
+
