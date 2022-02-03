@@ -13,8 +13,8 @@ $(document).ready(function () {
     $('#acender').click(function(){
         a = $('#imagen').attr('src')
         
-        if (a == 'IMAGENS/fosforo.png'){
-            $('#imagen').attr('src', 'IMAGENS/aceso.png')
+        if (a == 'fosforo.png'){
+            $('#imagen').attr('src', 'aceso.png')
         }
     })
   
@@ -23,7 +23,7 @@ $(document).ready(function () {
 
         b = $('#imagen').attr('src')
 
-        if(b=='IMAGENS/aceso.png'){
+        if(b=='aceso.png'){
             $('#imagen').attr('src', 'apagado.png')
         }
     })
@@ -32,7 +32,7 @@ $(document).ready(function () {
 
         c = $('#imagen').attr('src')
 
-        if(c=='apagado.png' || c == 'IMAGENS/fosforo.png'){
+        if(c=='apagado.png' || c == 'fosforo.png'){
             $('#imagen').hide()
         }
     })
@@ -43,7 +43,7 @@ $(document).ready(function () {
         d = $('#imagen').attr('src')
 
         if(d=='apagado.png'){
-            $('#imagen').attr('src', 'IMAGENS/fosforo.png')
+            $('#imagen').attr('src', 'fosforo.png')
         }
     })
 
