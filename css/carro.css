@@ -1,0 +1,174 @@
+#divgas{
+    width: 200px;
+    height: 30px;
+    background-image: radial-gradient(rgb(148, 82, 21),rgb(43, 21, 7));
+    border-radius: 50px;
+    align-content: center;
+    margin-left: 10px;
+    margin-left: 110px;
+    border: solid 2px rgb(231, 13, 5);
+}
+#gasolina{
+    margin-top: 2px;
+    text-align: start;
+    margin-left: -110px;
+}
+#abastecer{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 220px;
+    margin-top: -40px;
+    font-size: 11pt;
+    color: rgb(241, 10, 10);
+    border: solid 2px red;
+    background-color: rgba(161, 196, 197, 0.534);  
+    
+}
+#turbo{
+    width: 200px;
+    height: 30px;
+    background-image: radial-gradient(rgb(4, 17, 134),rgb(42, 51, 131));
+    border-radius: 50px;
+    align-content: center;
+    margin-left: 10px;
+    margin-left: 110px;
+    border: solid 2px rgb(7, 0, 100);
+}
+#imagencarro{
+    width: 400px;
+    height: 250px;
+    position: absolute;
+    image-rendering: auto;
+    
+    border-radius:50px ;
+    filter: contrast(150%);   
+}
+#acionar{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 220px;
+    margin-top: -40px;
+    font-size: 11pt;
+    color: rgb(14, 45, 51);
+    border: solid 2px rgb(6, 27, 68);
+    background-color:rgba(161, 196, 197, 0.534);
+}
+
+#concertar{
+   margin-left: 20%;
+    border-radius: 50px;
+    width:100px ;
+    border: solid 2px rgb(6, 40, 104);
+   color: rgb(217, 230, 36);
+    font-size: 10pt;
+    position: absolute;
+    margin-top: -95px;
+    background-color:rgba(161, 196, 197, 0.534);
+}
+#rua{
+    width: 1730px;
+    height: 15px;
+    background-color: rgb(218, 204, 20);
+    margin-top: 18%;
+}
+#rua2{
+    width: 1730px;
+    height: 15px;
+    background-color: rgb(218, 204, 20);
+    margin-top: 8px;
+}
+#passeio{
+    width: 370px;
+    height: 60px;
+    background-color: rgb(231, 230, 240);
+    margin-left: 1300px;
+    
+    margin-top: -450px;
+}   
+#passeio1{
+    width: 370px;
+    height: 60px;
+    background-color:rgb(231, 230, 240);
+    margin-left: 1300px;    
+    margin-top: 30px;
+}
+
+#passeio5{
+    width: 370px;
+    height: 60px;
+    background-color:rgb(231, 230, 240);
+    margin-left: 1300px;    
+    margin-top: 40px;
+}
+#passeio2{
+    width: 370px;    
+    height: 60px;
+    background-color: rgb(231, 230, 240);
+    margin-left: 1300px;   
+    margin-top:50px;
+}
+#passeio3{
+    width: 370px;
+    height: 60px;
+    background-color: rgb(231, 230, 240);
+    margin-left: 1300px;    
+    margin-top: 50px;
+}
+#passeio4{
+    width: 370px;
+    height: 60px;
+    background-color: rgb(231, 230, 240);
+    margin-left: 1300px;    
+    margin-top: 40px;
+   
+}
+
+#passeio6{
+    width: 370px;
+    height: 60px;
+    background-color:rgb(231, 230, 240);
+    margin-left: 1300px;
+   
+    margin-top: 60px;
+}
+#passeio7{
+    width: 370px;
+    height: 60px;
+    background-color: rgb(231, 230, 240);
+    margin-left: 1300px;
+    position: absolute;
+    margin-top: 40px;
+}
+
+
+#pontilhada1,#pontilhada2,#pontilhada3,#pontilhada4,#pontilhada5,#pontilhada6,#pontilhada8,#pontilhada9,#pontilhada10{
+    height: 15px;
+    width: 80px;
+    background-color: rgb(79, 82, 79);
+    margin-left: 160px;
+}
+
+#pontilhada{
+    height: 15px;
+    width: 80px;
+    background-color: rgb(79, 79, 82);
+    margin-left: 80px;
+}
+#gasolina{
+    color: rgba(229, 233, 0, 0.726);
+    
+    
+}   
+#ligar{
+    width: 80px;
+    height: 80px;
+    margin-left:250px ;
+    margin-top: -90%;
+    filter:contrast(120%) ;
+    border-radius: 20px;
+    
+}
+
+

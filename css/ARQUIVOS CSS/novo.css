@@ -1,5 +1,12 @@
+.div1{
+    width: 1000px;
+    height: 1000px;
+    background-color: darkmagenta;
+}
+
+
 #divpai{
-    background-color: rgb(16, 231, 44);
+    background-color: rgb(255, 0, 0);
     height: 200px;
     width: 200px;
     border:solid 5px darkorange;
@@ -17,10 +24,38 @@
     border:solid 5px rgb(192, 0, 0);
 }
 
+#divnova{
+    background-color:pink;
+    width:200px;
+    height: 200px;
+}
 
 
+.divclas1{
+    background-color: rgb(230, 117, 117);
+    width: 300px;
+    height: 300px;
+    color: gold;
+}
+.divclas2{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+}
+.divclas3{
+    background-color: crimson;
+    width: 100px;
+    height: 100px;
+}
 
+#teste{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(41, 192, 21, 0.884);
+}
 
+#button1{
+    width: 100px;
+    height: 55px;
 
-
-
+}

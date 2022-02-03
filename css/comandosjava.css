@@ -1,0 +1,20 @@
+
+#button1{
+    width: 120px;
+    height: 50px;
+    background-color: chartreuse;
+    font-size: 20pt;
+}
+#div{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+}   
+#div:hover{
+transition: 25s ;
+background-image:radial-gradient(white,rgb(150, 99, 5),rgb(55, 55, 245));
+width: 300px;
+    height: 300px;
+    
+
+}

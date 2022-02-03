@@ -1,0 +1,223 @@
+#divbord{
+    width: 440px;
+    height: 440px;
+    background-image: radial-gradient(rgba(201, 33, 33, 0.336),rgb(180, 160, 160),rgb(19, 5, 5));
+    margin-top: 12%;
+    margin-left: 35%;
+    padding-top:5% ;
+    border-radius: 20px;
+}
+
+#divcalc{
+    width: 280px;
+    height: 400px;
+    float: none;
+    background-image: radial-gradient(green,rgb(196, 24, 24),blue);
+    margin-top:1% ;
+    margin-left: 12%;
+    padding: 5%;
+    border-radius: 20px;
+    
+
+}
+#input{
+    width: 268px;
+    height: 50px;
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size: 25pt;
+    border:solid 2px rgb(0, 0, 0);
+    text-align: end;
+   
+}
+
+#textcalc{
+    color: seashell;
+    margin-left: 20%;
+    margin-top: -80px;
+    
+}
+
+
+#button1{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+    
+}
+
+#button2{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#button3{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#buttonmais{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#button4{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#button5{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#button6{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#buttonmenos{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#button7{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#button8{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#button9{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#buttonx{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#buttonponto{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#button0{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#buttonapa{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#buttonbarra{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#buttonc{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#buttonpare{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#buttonpare2{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}
+#buttonigual{
+    width:50px ;
+    height:50px ;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15pt;
+    border-radius: 70%;
+    border:solid 2px rgb(0, 0, 0);
+}

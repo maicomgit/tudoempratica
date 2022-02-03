@@ -1,0 +1,8 @@
+#mostrar,#acender, #apagar, #esconder, #trocar{
+    width: 140px;
+    height: 35px;
+    font: 12pt arial;
+    color: rgb(183, 238, 34);    
+    background-image: linear-gradient(rgba(250, 40, 40, 0.336),rgb(0, 0, 0),rgb(153, 25, 25),orange);
+}
+
